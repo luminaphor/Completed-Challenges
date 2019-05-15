@@ -1,5 +1,6 @@
 # Completed-Challenges
 Various programming challenges i've completed- most of them from github repositories or r/dailyprogrammer.
+These are all written in Python or C++.
 
 99 Bottles of Beer on the Wall
 
