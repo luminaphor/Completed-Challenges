@@ -1,4 +1,4 @@
-#written in Python
+#written in Python 
 #takes in an input as a string, loops through each number in the string
 #converts the number to an int, adds 1 to it
 #and then converts it back to a string where it is appended to newNum
