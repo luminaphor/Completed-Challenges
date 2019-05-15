@@ -1,7 +1,7 @@
 #written in python
 #start with 99 bottles, subtracts 1 each time the loop repeats
 #continue repeating the lines for as long as the amount of bottles is over 0.
-#once it gets down to 1 bottle, the line changes slightly.
+#once it gets down to 1 bottle, the line changes slightly. 
 
 bottles=99
 while bottles>0:
